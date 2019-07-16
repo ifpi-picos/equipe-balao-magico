@@ -697,7 +697,7 @@ hr.bold {
 --- Team
 ============================ */
 
-.team-wrapper-big, .team-wrapper-small { width: 100%; position: relative; text-align: center; }
+.team-wrapper-big, .team-wrapper-small { width: 100%; position: relative; text-align: center;}
 .team-wrapper-big img, .team-wrapper-small img { width: 100%; }
 .team-wrapper-big:hover .team-wrapper-overlay h5 { bottom: 70%; color: #fff; visibility: visible; }
 .team-wrapper-big:hover .team-wrapper-overlay h6, .team-wrapper-small:hover .team-wrapper-overlay h6 { bottom: 60%; color: #fff; }
